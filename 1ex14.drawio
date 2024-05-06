@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net" modified="2024-05-02T22:52:36.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="h-AcXq0oltbiU-xeosg3" version="24.3.1" type="google">
+  <diagram name="Página-1" id="tAIX1KBFop4ZF_IAIe5V">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhoVgr2p-yQ2EOt4Iyy0-1" target="EhoVgr2p-yQ2EOt4Iyy0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhoVgr2p-yQ2EOt4Iyy0-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-2" value="INPUT&lt;div&gt;number_of_docs&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhoVgr2p-yQ2EOt4Iyy0-8" target="EhoVgr2p-yQ2EOt4Iyy0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhoVgr2p-yQ2EOt4Iyy0-8" target="EhoVgr2p-yQ2EOt4Iyy0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-8" value="number_of_docs == 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-10" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhoVgr2p-yQ2EOt4Iyy0-11" target="EhoVgr2p-yQ2EOt4Iyy0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-11" value="OUTPUT&lt;div&gt;&quot;Se encontro un documento&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-13" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhoVgr2p-yQ2EOt4Iyy0-15" target="EhoVgr2p-yQ2EOt4Iyy0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhoVgr2p-yQ2EOt4Iyy0-15" target="EhoVgr2p-yQ2EOt4Iyy0-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-15" value="number_of_docs &amp;lt;= 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-17" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="338" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-18" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="408" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhoVgr2p-yQ2EOt4Iyy0-19" target="EhoVgr2p-yQ2EOt4Iyy0-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-19" value="OUTPUT&lt;div&gt;&quot;No se encontraron documentos&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-21" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EhoVgr2p-yQ2EOt4Iyy0-25" target="EhoVgr2p-yQ2EOt4Iyy0-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-25" value="number_of_docs, &quot; &quot;, &quot;documentos encontrados&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="540" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-27" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="490" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EhoVgr2p-yQ2EOt4Iyy0-28" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

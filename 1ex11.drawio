@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2024-05-02T22:23:44.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="VyVrMLiX5yxZ15eZ1oH0" version="24.3.1" type="google">
+  <diagram name="Página-1" id="RUKzXI0X2d3WQCuCUZE3">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xUnESWPTXG2CvmkFshNj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUnESWPTXG2CvmkFshNj-1" target="xUnESWPTXG2CvmkFshNj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUnESWPTXG2CvmkFshNj-6" target="xUnESWPTXG2CvmkFshNj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-6" value="INPUT number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUnESWPTXG2CvmkFshNj-8" target="xUnESWPTXG2CvmkFshNj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-8" value="codigo_fibo=11235813" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUnESWPTXG2CvmkFshNj-10" target="xUnESWPTXG2CvmkFshNj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUnESWPTXG2CvmkFshNj-10" target="xUnESWPTXG2CvmkFshNj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-10" value="number==codigo_fibo" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="320" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-12" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="318" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUnESWPTXG2CvmkFshNj-13" target="xUnESWPTXG2CvmkFshNj-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-13" value="OUTPUT&lt;div&gt;&quot;Se encontro a Fibonacci&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-15" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUnESWPTXG2CvmkFshNj-16" target="xUnESWPTXG2CvmkFshNj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-16" value="OUTPUT&lt;div&gt;&quot;Esto no es de Fibonacci&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-18" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xUnESWPTXG2CvmkFshNj-20" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

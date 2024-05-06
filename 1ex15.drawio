@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-05-02T23:06:34.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="COk-EgymE3UTk6RDMVxC" version="24.3.1" type="google">
+  <diagram name="Página-1" id="3dd0csF6-EsEDjV7WeLw">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ulh5dagdoyLpk6Ett19c-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ulh5dagdoyLpk6Ett19c-1" target="ulh5dagdoyLpk6Ett19c-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulh5dagdoyLpk6Ett19c-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ulh5dagdoyLpk6Ett19c-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ulh5dagdoyLpk6Ett19c-2" target="ulh5dagdoyLpk6Ett19c-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulh5dagdoyLpk6Ett19c-2" value="INPUT&lt;div&gt;a,b,c&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ulh5dagdoyLpk6Ett19c-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ulh5dagdoyLpk6Ett19c-4" target="ulh5dagdoyLpk6Ett19c-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulh5dagdoyLpk6Ett19c-4" value="Declarando&amp;nbsp;&lt;div&gt;z&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ulh5dagdoyLpk6Ett19c-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ulh5dagdoyLpk6Ett19c-6" target="ulh5dagdoyLpk6Ett19c-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulh5dagdoyLpk6Ett19c-6" value="z=a&lt;div&gt;a=c&lt;/div&gt;&lt;div&gt;c=b&lt;/div&gt;&lt;div&gt;b=z&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ulh5dagdoyLpk6Ett19c-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ulh5dagdoyLpk6Ett19c-9" target="ulh5dagdoyLpk6Ett19c-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulh5dagdoyLpk6Ett19c-9" value="OUTPUT&lt;div&gt;&quot;Los valores son: a = &quot;, a , &quot; b =&amp;nbsp; &quot;, b , &quot; y c = &quot;, c&amp;nbsp;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="360" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ulh5dagdoyLpk6Ett19c-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ulh5dagdoyLpk6Ett19c-12" target="ulh5dagdoyLpk6Ett19c-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ulh5dagdoyLpk6Ett19c-12" value="OUTPUT&lt;div&gt;&quot;Permutamos: a =&amp;gt; b, b =&amp;gt; c, c =&amp;gt; a&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Los valores despues de la permutacion son: a = &quot; , a , &quot; b = &quot; , b , &quot; c = &quot; , c&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="540" width="505" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ulh5dagdoyLpk6Ett19c-14" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
